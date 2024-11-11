@@ -1,0 +1,14 @@
+version 2
+1
+9
+.tran 100p 100u{return}{return}{return}{return}.kicad adjustpaths{return}.save all{return}.probe alli
+3
+1
+V(Net-_R5-Pad2_)
+ 
+1
+V(output_opamp)
+ 
+1
+V(peak)
+ 
